@@ -1,5 +1,33 @@
 ## How to setup Quake 2 Server on Google Computer Engine
 
+### Create Virtual machine 
+
+### Reserve ip address
+
+### Setup firewall rule
+
+### Connect to vm via SSH
+
+### Install quake2-server
+sudo apt install quake2-server
+
+possible it could not find the package, then update apt
+
+sudo apt update
+sudo apt upgrade
+
+### Install unzip
+
+### Create archive with game files
+
+### Copy game files to vm
+
+### unzip game files
+unzip game-files-archive
+
+### install game files
+
+
 You can use the [editor on GitHub](https://github.com/DanilKorotenko/quake2_server/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
