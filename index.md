@@ -26,7 +26,14 @@ sudo apt upgrade
 unzip game-files-archive
 
 ### install game files
+game-data-packager -i quake2 game-files-folder
 
+possible it create a package but fail on install, then
+install the package manually
+
+sudo apt install sudo apt install ./quake2-full-data_64_all.deb
+
+### 
 
 You can use the [editor on GitHub](https://github.com/DanilKorotenko/quake2_server/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
