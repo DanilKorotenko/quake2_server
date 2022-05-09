@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## How to setup Quake 2 Server on Google Computer Engine
 
 You can use the [editor on GitHub](https://github.com/DanilKorotenko/quake2_server/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
